@@ -1,9 +1,9 @@
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.deps.json
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
-E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.AssemblyInfo.cs
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csproj.CoreCompileInputs.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.csprojAssemblyReference.cache
