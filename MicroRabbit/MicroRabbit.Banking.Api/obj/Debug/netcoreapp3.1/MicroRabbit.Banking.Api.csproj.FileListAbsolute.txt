@@ -7,7 +7,6 @@ E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreap
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.runtimeconfig.dev.json
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.dll
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.pdb
-E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.csprojAssemblyReference.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.AssemblyInfoInputs.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.AssemblyInfo.cs
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Api\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Api.csproj.CoreCompileInputs.cache
