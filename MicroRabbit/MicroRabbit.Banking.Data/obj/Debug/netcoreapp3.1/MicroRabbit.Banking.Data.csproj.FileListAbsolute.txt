@@ -1,0 +1,8 @@
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.deps.json
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfoInputs.cache
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.AssemblyInfo.cs
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.csproj.CoreCompileInputs.cache
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.dll
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Data\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Data.pdb

@@ -7,3 +7,8 @@ E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CoreCompileInputs.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.dll
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.pdb
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.dll
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.dll
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Infra.Bus.pdb
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\bin\Debug\netcoreapp3.1\MicroRabbit.Domain.Core.pdb
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Infra.IoC\obj\Debug\netcoreapp3.1\MicroRabbit.Infra.IoC.csproj.CopyComplete
