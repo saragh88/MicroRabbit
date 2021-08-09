@@ -1,8 +1,12 @@
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.deps.json
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.dll
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.dll
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\bin\Debug\netcoreapp3.1\MicroRabbit.Banking.Domain.pdb
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csprojAssemblyReference.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.AssemblyInfo.cs
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.csproj.CopyComplete
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.dll
 E:\myProject\MicroRabbit\MicroRabbit\MicroRabbit.Banking.Application\obj\Debug\netcoreapp3.1\MicroRabbit.Banking.Application.pdb
