@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3m0kgHdHM3zrcn/pbpd/Ee++JVKtLTp0OSLSDp4gN7UAdTLVrTVHxux3u1Sg/SVYGVuRrmx9ILR1qaRiGDiKmA==",
+  "dgSpecHash": "cLVGQG8wpiKtC7J3zcE3zvkFW8E5fB7RHXbFsk73+AuUh5JmuDqYZqNolM7PBR5M0qE04svMeeaxkJvxrtYTcw==",
   "success": true,
   "projectFilePath": "E:\\myProject\\MicroRabbit\\MicroRabbit\\MicroRabbit.Banking.Data\\MicroRabbit.Banking.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s.ghasemi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\s.ghasemi\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\s.ghasemi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\s.ghasemi\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\s.ghasemi\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",
